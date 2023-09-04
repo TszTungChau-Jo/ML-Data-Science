@@ -1,2 +1,2 @@
 # ML-Data-Science
-Data Science and Machine Learning Online Courses
+Data Science and Machine Learning Online Tutorials
